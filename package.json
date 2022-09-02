@@ -36,8 +36,10 @@
     "vue"
   ],
   "dependencies": {
+    "@vueuse/core": "^9.1.1",
     "D": "^1.0.0",
     "autoprefixer": "^10.4.8",
+    "daisyui": "^2.24.0",
     "postcss": "^8.4.16",
     "sass": "^1.54.4",
     "tailwindcss": "^3.1.8"
