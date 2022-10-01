@@ -188,10 +188,10 @@
   dependencies:
     "@types/node" "*"
 
-"@vitejs/plugin-vue@^3.0.1":
-  version "3.0.2"
-  resolved "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-3.0.2.tgz"
-  integrity sha512-LAqb+tibmsKmSbxBzsMqWVJe6gDE4BDmFLjIzk4YdHgeiRCTokPbK8yRB3dRxDRwNk4IFwCFVE6+WP+YM0mbJg==
+"@vitejs/plugin-vue@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-3.1.0.tgz#3a423ea6943a450e806da412a911150e928598ed"
+  integrity sha512-fmxtHPjSOEIRg6vHYDaem+97iwCUg/uSIaTzp98lhELt2ISOQuDo2hbkBdXod0g15IhfPMQmAxh4heUks2zvDA==
 
 "@volar/code-gen@0.40.1":
   version "0.40.1"
